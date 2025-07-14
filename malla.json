@@ -1,0 +1,392 @@
+[
+  {
+    "codigo": "GEO289",
+    "nombre": "Teor\u00eda y Pensamiento de la Geograf\u00eda",
+    "creditos": 3.0,
+    "semestre": 1,
+    "prerrequisitos": []
+  },
+  {
+    "codigo": "HIS207",
+    "nombre": "Teor\u00eda y Pensamiento de la Historia",
+    "creditos": 3.0,
+    "semestre": 1,
+    "prerrequisitos": []
+  },
+  {
+    "codigo": "HIS208",
+    "nombre": "Problemas y M\u00e9todos de la Historia",
+    "creditos": 3.0,
+    "semestre": 1,
+    "prerrequisitos": []
+  },
+  {
+    "codigo": "HIS209",
+    "nombre": "Artes y Conocimientos en la Historia de la Cultura",
+    "creditos": 3.0,
+    "semestre": 1,
+    "prerrequisitos": []
+  },
+  {
+    "codigo": "LCL122",
+    "nombre": "Estrategias Discursivas para Acceder al Conocimiento Disciplinar",
+    "creditos": 2.0,
+    "semestre": 1,
+    "prerrequisitos": []
+  },
+  {
+    "codigo": "GEO291",
+    "nombre": "Principios y Fundamentos de Geograf\u00eda F\u00edsica",
+    "creditos": 3.0,
+    "semestre": 2,
+    "prerrequisitos": [
+      "GEO289"
+    ]
+  },
+  {
+    "codigo": "HIS195",
+    "nombre": "Corrientes y Problemas de la Historiograf\u00eda",
+    "creditos": 3.0,
+    "semestre": 2,
+    "prerrequisitos": [
+      "HIS207"
+    ]
+  },
+  {
+    "codigo": "HIS224",
+    "nombre": "Historia Antigua",
+    "creditos": 3.0,
+    "semestre": 2,
+    "prerrequisitos": []
+  },
+  {
+    "codigo": "HIS225",
+    "nombre": "Problemas y M\u00e9todos de las Ciencias Sociales",
+    "creditos": 3.0,
+    "semestre": 2,
+    "prerrequisitos": []
+  },
+  {
+    "codigo": "HIS226",
+    "nombre": "Primeras Culturas de Am\u00e9rica y Chile",
+    "creditos": 3.0,
+    "semestre": 2,
+    "prerrequisitos": [
+      "HIS209"
+    ]
+  },
+  {
+    "codigo": "ING9001",
+    "nombre": "Ingl\u00e9s 1",
+    "creditos": 2.0,
+    "semestre": 2,
+    "prerrequisitos": []
+  },
+  {
+    "codigo": "EPE1320",
+    "nombre": "Educar en y para la Diversidad",
+    "creditos": 3.0,
+    "semestre": 3,
+    "prerrequisitos": []
+  },
+  {
+    "codigo": "HIS227",
+    "nombre": "Historia de Am\u00e9rica Colonial",
+    "creditos": 3.0,
+    "semestre": 3,
+    "prerrequisitos": [
+      "HIS226"
+    ]
+  },
+  {
+    "codigo": "HIS228",
+    "nombre": "Historia de Chile Colonial",
+    "creditos": 3.0,
+    "semestre": 3,
+    "prerrequisitos": []
+  },
+  {
+    "codigo": "HIS310",
+    "nombre": "Historia Medieval",
+    "creditos": 3.0,
+    "semestre": 3,
+    "prerrequisitos": [
+      "HIS224"
+    ]
+  },
+  {
+    "codigo": "PRA101-18",
+    "nombre": "Pr\u00e1ctica Docente Inicial",
+    "creditos": 4.0,
+    "semestre": 3,
+    "prerrequisitos": []
+  },
+  {
+    "codigo": "PSI331",
+    "nombre": "Taller de Aprendizaje y Desarrollo Adolescente",
+    "creditos": 3.0,
+    "semestre": 3,
+    "prerrequisitos": []
+  },
+  {
+    "codigo": "GEO292",
+    "nombre": "Principios y Fundamentos de Geograf\u00eda Humana",
+    "creditos": 3.0,
+    "semestre": 4,
+    "prerrequisitos": [
+      "GEO291"
+    ]
+  },
+  {
+    "codigo": "HIS153",
+    "nombre": "Historia del Arte Universal",
+    "creditos": 3.0,
+    "semestre": 4,
+    "prerrequisitos": [
+      "HIS209"
+    ]
+  },
+  {
+    "codigo": "HIS229",
+    "nombre": "Historia Moderna",
+    "creditos": 3.0,
+    "semestre": 4,
+    "prerrequisitos": [
+      "HIS310"
+    ]
+  },
+  {
+    "codigo": "HIS233",
+    "nombre": "Historia de Am\u00e9rica Latina Siglo XIX",
+    "creditos": 3.0,
+    "semestre": 4,
+    "prerrequisitos": [
+      "HIS227"
+    ]
+  },
+  {
+    "codigo": "HIS308",
+    "nombre": "Historia de Chile Siglo XIX",
+    "creditos": 3.0,
+    "semestre": 4,
+    "prerrequisitos": [
+      "HIS228"
+    ]
+  },
+  {
+    "codigo": "ING9002",
+    "nombre": "Ingl\u00e9s 2",
+    "creditos": 2.0,
+    "semestre": 4,
+    "prerrequisitos": [
+      "ING9001"
+    ]
+  },
+  {
+    "codigo": "GEO293",
+    "nombre": "M\u00e9todos y Herramientas Geogr\u00e1ficas",
+    "creditos": 2.0,
+    "semestre": 5,
+    "prerrequisitos": [
+      "GEO292"
+    ]
+  },
+  {
+    "codigo": "HIS633",
+    "nombre": "Historia Contempor\u00e1nea Universal",
+    "creditos": 3.0,
+    "semestre": 5,
+    "prerrequisitos": [
+      "HIS229"
+    ]
+  },
+  {
+    "codigo": "HIS634",
+    "nombre": "Historia de Am\u00e9rica Contempor\u00e1nea",
+    "creditos": 3.0,
+    "semestre": 5,
+    "prerrequisitos": [
+      "HIS233"
+    ]
+  },
+  {
+    "codigo": "HIS635",
+    "nombre": "Historia de Chile Contempor\u00e1nea",
+    "creditos": 3.0,
+    "semestre": 5,
+    "prerrequisitos": [
+      "HIS308"
+    ]
+  },
+  {
+    "codigo": "HIS636",
+    "nombre": "Problemas y M\u00e9todos de la Econom\u00eda",
+    "creditos": 3.0,
+    "semestre": 5,
+    "prerrequisitos": []
+  },
+  {
+    "codigo": "ING9003",
+    "nombre": "Ingl\u00e9s 3",
+    "creditos": 2.0,
+    "semestre": 5,
+    "prerrequisitos": [
+      "ING9002"
+    ]
+  },
+  {
+    "codigo": "EPE1118",
+    "nombre": "Fundamentos Filos\u00f3ficos y Sociales de la Educaci\u00f3n",
+    "creditos": 3.0,
+    "semestre": 6,
+    "prerrequisitos": [
+      "PRA101-18"
+    ]
+  },
+  {
+    "codigo": "GEO630",
+    "nombre": "An\u00e1lisis Geogr\u00e1fico",
+    "creditos": 3.0,
+    "semestre": 6,
+    "prerrequisitos": [
+      "GEO293"
+    ]
+  },
+  {
+    "codigo": "ING9004",
+    "nombre": "Ingl\u00e9s 4",
+    "creditos": 2.0,
+    "semestre": 6,
+    "prerrequisitos": [
+      "ING9003"
+    ]
+  },
+  {
+    "codigo": "PSI275",
+    "nombre": "Psicolog\u00eda Social Aplicada en la Escuela y su Comunidad",
+    "creditos": 3.0,
+    "semestre": 6,
+    "prerrequisitos": []
+  },
+  {
+    "codigo": "EPE1132",
+    "nombre": "Tecnolog\u00edas Digitales para el Aprendizaje y el Desarrollo Profesional Docente",
+    "creditos": 2.0,
+    "semestre": 7,
+    "prerrequisitos": []
+  },
+  {
+    "codigo": "EPE1303",
+    "nombre": "Teor\u00eda y Planificaci\u00f3n Curricular",
+    "creditos": 3.0,
+    "semestre": 7,
+    "prerrequisitos": []
+  },
+  {
+    "codigo": "EPE1400",
+    "nombre": "Pol\u00edticas P\u00fablicas Educativas y Gesti\u00f3n Escolar",
+    "creditos": 2.0,
+    "semestre": 7,
+    "prerrequisitos": []
+  },
+  {
+    "codigo": "HIS637",
+    "nombre": "Formaci\u00f3n Ciudadana 1",
+    "creditos": 3.0,
+    "semestre": 7,
+    "prerrequisitos": [
+      "HIS635"
+    ]
+  },
+  {
+    "codigo": "EPE1302",
+    "nombre": "Evaluaci\u00f3n del y para el Aprendizaje",
+    "creditos": 3.0,
+    "semestre": 8,
+    "prerrequisitos": [
+      "EPE1303"
+    ]
+  },
+  {
+    "codigo": "GEO541",
+    "nombre": "Did\u00e1ctica de la Geograf\u00eda",
+    "creditos": 3.0,
+    "semestre": 8,
+    "prerrequisitos": [
+      "EPE1132",
+      "EPE1303",
+      "PRA101-18"
+    ]
+  },
+  {
+    "codigo": "HIS511",
+    "nombre": "Did\u00e1ctica de la Historia",
+    "creditos": 3.0,
+    "semestre": 8,
+    "prerrequisitos": [
+      "EPE1132",
+      "EPE1303",
+      "PRA101-18"
+    ]
+  },
+  {
+    "codigo": "PRA301-18",
+    "nombre": "Pr\u00e1ctica Docente Intermedia",
+    "creditos": 6.0,
+    "semestre": 8,
+    "prerrequisitos": [
+      "PSI331",
+      "EPE1303",
+      "PRA101-18"
+    ]
+  },
+  {
+    "codigo": "EPE1342",
+    "nombre": "Investigaci\u00f3n Educativa y Pedag\u00f3gica",
+    "creditos": 3.0,
+    "semestre": 9,
+    "prerrequisitos": [
+      "EPE1302",
+      "EPE1320",
+      "PRA301-18"
+    ]
+  },
+  {
+    "codigo": "HIS638",
+    "nombre": "Formaci\u00f3n Ciudadana 2",
+    "creditos": 3.0,
+    "semestre": 9,
+    "prerrequisitos": [
+      "HIS637"
+    ]
+  },
+  {
+    "codigo": "LCL465",
+    "nombre": "Estrategias Discursivas para Comunicar y Ense\u00f1ar el Conocimiento Disciplinar",
+    "creditos": 2.0,
+    "semestre": 9,
+    "prerrequisitos": []
+  },
+  {
+    "codigo": "HIS650",
+    "nombre": "Seminario de Titulaci\u00f3n",
+    "creditos": 4.0,
+    "semestre": 10,
+    "prerrequisitos": [
+      "EPE1342"
+    ]
+  },
+  {
+    "codigo": "PRA601-18",
+    "nombre": "Pr\u00e1ctica Docente Final",
+    "creditos": 16.0,
+    "semestre": 10,
+    "prerrequisitos": [
+      "EPE1342",
+      "GEO541",
+      "HIS511",
+      "HIS633",
+      "HIS635"
+    ]
+  }
+]
